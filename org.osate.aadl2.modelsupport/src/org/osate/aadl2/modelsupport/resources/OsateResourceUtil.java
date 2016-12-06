@@ -72,7 +72,7 @@ public class OsateResourceUtil {
 
 
 	private static boolean DEBUG = true;
-  public static boolean USES_GUI = true;
+  public static boolean USES_GUI = false; //  SR: hack
 	public static final String PLUGIN_RESOURCES_DIRECTORY_NAME = "Plugin_Resources";
 
     
